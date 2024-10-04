@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "66dcab14685e21088f3714b7"
+  },
+  "name": "Virat Kohli",
+  "role": "batter",
+  "age": 35,
+  "style": "RHB",
+  "battingAvg": 58
+},
+{
+  "_id": {
+    "$oid": "66e454bbf3ffbae7dbf08a54"
+  },
+  "name": "MS Dhoni",
+  "role": "batter-wicketKeeper",
+  "age": 38,
+  "style": "RHB",
+  "battingAvg": 45
+},
+{
+  "_id": {
+    "$oid": "66e454dcf3ffbae7dbf08a56"
+  },
+  "name": "Surya Kumar Yadav",
+  "role": "batter",
+  "age": 31,
+  "style": "RHB",
+  "battingAvg": 56
+},
+{
+  "_id": {
+    "$oid": "66e45503f3ffbae7dbf08a58"
+  },
+  "name": "Hardik Pandya",
+  "role": "bowler",
+  "age": 32,
+  "style": "RHB",
+  "battingAvg": 12
+},
+{
+  "_id": {
+    "$oid": "66e45542f3ffbae7dbf08a5a"
+  },
+  "name": "Jadeja",
+  "role": "All-rounder",
+  "age": 30,
+  "style": "RHB",
+  "battingAvg": 18
+},
+{
+  "_id": {
+    "$oid": "66e455abf3ffbae7dbf08a5c"
+  },
+  "name": "Rohit Sharma",
+  "role": "Batter",
+  "age": 33,
+  "style": "RHB",
+  "battingAvg": 59
+},
+{
+  "_id": {
+    "$oid": "66e455d7f3ffbae7dbf08a5e"
+  },
+  "name": "Mohammad Shami",
+  "role": "Bowler",
+  "age": 34,
+  "style": "RHB",
+  "battingAvg": 12
+},
+{
+  "_id": {
+    "$oid": "66e45600f3ffbae7dbf08a60"
+  },
+  "name": "KL Rahul",
+  "role": "Batter",
+  "age": 30,
+  "style": "RHB",
+  "battingAvg": 46
+},
+{
+  "_id": {
+    "$oid": "66e4563cf3ffbae7dbf08a62"
+  },
+  "name": "Rishabh Pant",
+  "role": "wicket-keeper",
+  "age": 29,
+  "style": "LHB",
+  "battingAvg": 32
+},
+{
+  "_id": {
+    "$oid": "66e4566ff3ffbae7dbf08a64"
+  },
+  "name": "Jasprit Bumrah",
+  "role": "Bowler",
+  "age": 30,
+  "style": "LHB",
+  "battingAvg": 28
+},
+{
+  "_id": 1,
+  "name": "KL Rahul",
+  "role": "Batter",
+  "age": 30,
+  "style": "RHB",
+  "battingAvg": 46
+}]
